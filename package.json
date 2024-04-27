@@ -1,17 +1,18 @@
 {
+  "homepage": "https://davidtruong02.github.io/Book-Search/",
   "name": "googlebooks-app",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
-  "homepage": "https://davidtruong02.github.io/Book-Search/",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start": "node server/server.js",
+
+    "start": "react-scripts start",
     "develop": "concurrently \"cd server && npm run watch\" \"cd client && npm run dev\"",
     "install": "cd server && npm i && cd ../client && npm i",
     "build": "cd client && npm run build",
-    "render-build": "npm install && npm run build"
+    "render-build": "npm install && npm run build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "",
