@@ -1,5 +1,4 @@
 {
-  "homepage": "http://davidtruong02.github.io/Book-Search-Engine",
   "name": "googlebooks-app",
   "version": "1.0.0",
   "description": "",
@@ -21,6 +20,5 @@
     "vite": "^5.2.10"
   },
   "dependencies": {
-    "gh-pages": "^6.1.1"
   }
 }
