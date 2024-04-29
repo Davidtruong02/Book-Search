@@ -1,5 +1,5 @@
 {
-  "homepage": "https://davidtruong02.github.io/Book-Search/",
+  "homepage": "http://davidtruong02.github.io/Book-Search-Engine",
   "name": "googlebooks-app",
   "version": "1.0.0",
   "description": "",
@@ -11,7 +11,7 @@
     "build": "cd client && npm run build",
     "render-build": "npm install && npm run build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d client/dist"
   },
   "keywords": [],
   "author": "",
