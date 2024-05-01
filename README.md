@@ -1,4 +1,29 @@
-# Book-Search#
+# Book-Search
+
+## Table of Contents 
+- [Installation](#installation)
+- [Description](#description)
+- [Usage](#usage)
+- [License](#license)
+- [Questions](#questions)
+
+
+## Installation
+Steps to Install
+
+Download or clone the repository to your local desktop or laptop.
+Navigate to the correct directory where you saved the cloned repo.
+Run 'npm i or install' to install the required dependencies.
+
+
+## Description
+For this module's challenge take the knowledge of what we learn during the MERN module and we are given a starter code for this challenge.
+
+## Usage
+To use the application, follow the step provided:
+Clone the repository.
+Install the required dependencies in your terminal in the general folder, not any specific folder.
+then npm run dev in (server folder => server.js) in terminal to get app started
 
 # User Story
 
@@ -41,3 +66,30 @@ THEN that book is deleted from my saved books list
 WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
 ```
+
+## License
+
+Copyright (c) 2024 David Truong
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+## Questions
+If you have any questions, you can reach me on GitHub: https://github.com/Davidtruong02
+For additional questions, contact me via email: davidtruong134@gmail.com
